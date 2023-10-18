@@ -2,12 +2,12 @@
 
 This repo is basic example to show how to start Tor browser with Selenium.
 
-Because of all the changes to Python, selenium, and bunch of changes to the Python libraries, this repo represents my successful research and deployment of basic Tor browser automation.
+Because of all the changes to Selenium library, Python, and bunch of other changes, this repo is example how to start Tor browser with minimal code.
 
 ## How to run
 
-- Step 1: Start Tor browser manually
-- Step 2: Run the script
+- Step 1: Start Tor browser manually (this will open Tor proxy locally)
+- Step 2: Run the script (it will launch firefox and use Tor proxy)
 
 The selenium code will use the Tor proxy to connect to the Tor network.
 
